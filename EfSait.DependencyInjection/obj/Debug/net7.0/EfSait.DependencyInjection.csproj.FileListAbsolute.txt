@@ -1,0 +1,17 @@
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.DependencyInjection.deps.json
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.DependencyInjection.dll
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.DependencyInjection.pdb
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.Entity.dll
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.Infrastructure.dll
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.Service.dll
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.Infrastructure.pdb
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.Service.pdb
+C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.Entity.pdb
+C:\EF\back\EfSait.DependencyInjection\obj\Debug\net7.0\EfSait.DependencyInjection.csproj.AssemblyReference.cache
+C:\EF\back\EfSait.DependencyInjection\obj\Debug\net7.0\EfSait.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\EF\back\EfSait.DependencyInjection\obj\Debug\net7.0\EfSait.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\EF\back\EfSait.DependencyInjection\obj\Debug\net7.0\EfSait.D.7B5D213D.Up2Date
+C:\EF\back\EfSait.DependencyInjection\obj\Debug\net7.0\EfSait.DependencyInjection.dll
+C:\EF\back\EfSait.DependencyInjection\obj\Debug\net7.0\refint\EfSait.DependencyInjection.dll
+C:\EF\back\EfSait.DependencyInjection\obj\Debug\net7.0\EfSait.DependencyInjection.pdb
+C:\EF\back\EfSait.DependencyInjection\obj\Debug\net7.0\ref\EfSait.DependencyInjection.dll

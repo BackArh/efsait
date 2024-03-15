@@ -1,0 +1,13 @@
+C:\EF\back\EfSait.Service\bin\Debug\net7.0\EfSait.Service.deps.json
+C:\EF\back\EfSait.Service\bin\Debug\net7.0\EfSait.Service.dll
+C:\EF\back\EfSait.Service\bin\Debug\net7.0\EfSait.Service.pdb
+C:\EF\back\EfSait.Service\bin\Debug\net7.0\EfSait.Entity.dll
+C:\EF\back\EfSait.Service\bin\Debug\net7.0\EfSait.Entity.pdb
+C:\EF\back\EfSait.Service\obj\Debug\net7.0\EfSait.Service.csproj.AssemblyReference.cache
+C:\EF\back\EfSait.Service\obj\Debug\net7.0\EfSait.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\EF\back\EfSait.Service\obj\Debug\net7.0\EfSait.Service.csproj.CoreCompileInputs.cache
+C:\EF\back\EfSait.Service\obj\Debug\net7.0\EfSait.S.DCCB3400.Up2Date
+C:\EF\back\EfSait.Service\obj\Debug\net7.0\EfSait.Service.dll
+C:\EF\back\EfSait.Service\obj\Debug\net7.0\refint\EfSait.Service.dll
+C:\EF\back\EfSait.Service\obj\Debug\net7.0\EfSait.Service.pdb
+C:\EF\back\EfSait.Service\obj\Debug\net7.0\ref\EfSait.Service.dll

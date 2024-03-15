@@ -1,0 +1,10 @@
+C:\EF\back\EfSait.Entity\bin\Debug\net7.0\EfSait.Entity.deps.json
+C:\EF\back\EfSait.Entity\bin\Debug\net7.0\EfSait.Entity.dll
+C:\EF\back\EfSait.Entity\bin\Debug\net7.0\EfSait.Entity.pdb
+C:\EF\back\EfSait.Entity\obj\Debug\net7.0\EfSait.Entity.csproj.AssemblyReference.cache
+C:\EF\back\EfSait.Entity\obj\Debug\net7.0\EfSait.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\EF\back\EfSait.Entity\obj\Debug\net7.0\EfSait.Entity.csproj.CoreCompileInputs.cache
+C:\EF\back\EfSait.Entity\obj\Debug\net7.0\EfSait.Entity.dll
+C:\EF\back\EfSait.Entity\obj\Debug\net7.0\refint\EfSait.Entity.dll
+C:\EF\back\EfSait.Entity\obj\Debug\net7.0\EfSait.Entity.pdb
+C:\EF\back\EfSait.Entity\obj\Debug\net7.0\ref\EfSait.Entity.dll

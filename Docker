@@ -1,0 +1,29 @@
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS base
+WORKDIR /app
+ENV ASPNETCORE_ENVIRONMENT=Production
+ENV ASPNETCORE_URLS http://*:5000
+EXPOSE 5000
+
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS builder
+ARG Configuration=Release
+WORKDIR /src
+
+COPY ["EfSait.API/EfSait.API.csproj", "EfSait.Api/"]
+COPY ["EfSait.Entity/EfSait.Entity.csproj", "EfSait.Entity/"]
+COPY ["EfSait.Service/EfSait.Service.csproj", "EfSait.Service/"]
+COPY ["EfSait.Infrastructure/EfSait.Infrastructure.csproj", "EfSait.Infrastructure/"]
+COPY ["EfSait.DependencyInjection/EfSait.DependencyInjection.csproj", "EfSait.DependencyInjection/"]
+WORKDIR "/src/EfSait.Api"
+RUN dotnet restore EfSait.API.csproj
+COPY . .
+WORKDIR /src/EfSait.Api
+RUN dotnet build EfSait.API.csproj -c Release -o "/app/build"
+
+FROM builder AS publish
+ARG Configuration=Release
+RUN dotnet publish EfSait.API.csproj -c Release -o "/app/publish"
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app .
+ENTRYPOINT ["dotnet", "EfSait.API.dll"]

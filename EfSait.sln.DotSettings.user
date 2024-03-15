@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\EF\back\EfSait.DependencyInjection\bin\Debug\net7.0\EfSait.DependencyInjection.dll" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\EF\back" Loaded="True" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=857233a8_002D4310_002D41b5_002D9b61_002D408bf6d6cd4c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateAsync_ExistIsEntityException_True" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.Service.DivisionServiceTests.CreateAsync_ExistIsEntityException_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.Service.DivisionServiceTests.GetAsync_NotExistException_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.Service.DirectionServiceTests.GetAllAsync_CountNotEqualZero_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.Service.DivisionServiceTests.Update_EditModelAndEqualValue_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.Service.DivisionServiceTests.GetAllAsync_CountNotEqualZero_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.InfrastructureDb.ProfileProviderTests.Add_EntityCheckOnNull_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.Service.YearRecruitmentsDisciplineServiceTests.CreateAsync_ExistIsEntityException_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.Service.YearRecruitmentsDisciplineServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C90178C6-0DDE-4A48-B0B3-F32A2FD44958::net6.0::EfSait.Tests.Service.StaffServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+</wpf:ResourceDictionary>

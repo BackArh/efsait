@@ -1,0 +1,15 @@
+C:\EF\back\EfSait.Infrastructure\bin\Debug\net7.0\EfSait.Infrastructure.deps.json
+C:\EF\back\EfSait.Infrastructure\bin\Debug\net7.0\EfSait.Infrastructure.dll
+C:\EF\back\EfSait.Infrastructure\bin\Debug\net7.0\EfSait.Infrastructure.pdb
+C:\EF\back\EfSait.Infrastructure\bin\Debug\net7.0\EfSait.Entity.dll
+C:\EF\back\EfSait.Infrastructure\bin\Debug\net7.0\EfSait.Service.dll
+C:\EF\back\EfSait.Infrastructure\bin\Debug\net7.0\EfSait.Entity.pdb
+C:\EF\back\EfSait.Infrastructure\bin\Debug\net7.0\EfSait.Service.pdb
+C:\EF\back\EfSait.Infrastructure\obj\Debug\net7.0\EfSait.Infrastructure.csproj.AssemblyReference.cache
+C:\EF\back\EfSait.Infrastructure\obj\Debug\net7.0\EfSait.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\EF\back\EfSait.Infrastructure\obj\Debug\net7.0\EfSait.Infrastructure.csproj.CoreCompileInputs.cache
+C:\EF\back\EfSait.Infrastructure\obj\Debug\net7.0\EfSait.I.ED7E5DE2.Up2Date
+C:\EF\back\EfSait.Infrastructure\obj\Debug\net7.0\EfSait.Infrastructure.dll
+C:\EF\back\EfSait.Infrastructure\obj\Debug\net7.0\refint\EfSait.Infrastructure.dll
+C:\EF\back\EfSait.Infrastructure\obj\Debug\net7.0\EfSait.Infrastructure.pdb
+C:\EF\back\EfSait.Infrastructure\obj\Debug\net7.0\ref\EfSait.Infrastructure.dll
